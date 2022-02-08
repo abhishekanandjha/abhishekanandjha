@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekanandjha
 - 👀 I’m interested in Android and web development 
-- 🌱 I’m currently learning c++, android.
+- 🌱 I’m currently learning c++, android, html and css.
 - 💞️ 
 - 📫 How to reach me? :- abhishekanandjha48@gmail.com
 
